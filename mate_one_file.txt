@@ -1,0 +1,9 @@
+This is a file created by mate one.
+
+This is the second change to mate one file.
+
+This is another change to mate one file.
+
+This is a new change.
+
+This the last change to this file after all the conflicts.
